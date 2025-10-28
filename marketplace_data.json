@@ -1,0 +1,14 @@
+// AMAAR market
+[
+    {
+    "name": "AMAAR MARKET",  // market name
+    "address": "QASHQADARYO VILOYATI, QARSHI SHAHRI, MUSTAQILLIK MFY, MUSTAQILLIK KO'CHASI. 103-UYr", /* market address */
+    "ep_number": "EZ000000000931", // terminal ID
+    "phone": "+99854011515", // market phone number
+    "tin": "311439965", // market TIN | INN
+    "oked": "47110", // market OKED
+    "stir": "311439965" // market STIR
+
+  
+}
+]

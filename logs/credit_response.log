@@ -1,0 +1,5 @@
+Status: 200
+{
+    "Code": 10,
+    "Message": "failed to validate receipt: calculated fiscalSign and SaleReceiptInfo.FiscalSign mismatch"
+}

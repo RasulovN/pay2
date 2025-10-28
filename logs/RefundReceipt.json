@@ -1,0 +1,90 @@
+{
+    "ReceiptSeq": 189,
+    "IsRefund": 1,
+    "Items": [
+        {
+            "Name": "Kompyuter sichqonchasi",
+            "Barcode": "1234567890123",
+            "Labels": [],
+            "SPIC": "08471012005000000",
+            "PackageCode": "1503256",
+            "OwnerType": 0,
+            "GoodPrice": 150000,
+            "Price": 150000,
+            "VAT": 18000,
+            "VATPercent": 12,
+            "Amount": 1000,
+            "Discount": 0,
+            "Other": 0,
+            "Voucher": 0,
+            "CommissionInfo": {
+                "TIN": "190261951",
+                "PINFL": "30747919403015"
+            }
+        },
+        {
+            "Name": "Klaviatura",
+            "Barcode": "2345678901234",
+            "Labels": [],
+            "SPIC": "08471012004000000",
+            "PackageCode": "1503267",
+            "OwnerType": 0,
+            "GoodPrice": 250000,
+            "Price": 250000,
+            "VAT": 30000,
+            "VATPercent": 12,
+            "Amount": 2000,
+            "Discount": 0,
+            "Other": 0,
+            "Voucher": 0,
+            "CommissionInfo": {
+                "TIN": "190261951",
+                "PINFL": "30747919403015"
+            }
+        },
+        {
+            "Name": "Purkovchi printerlar uchun siyoh",
+            "Barcode": "3456789012345",
+            "Labels": [],
+            "SPIC": "03215001006000000",
+            "PackageCode": "1344346",
+            "OwnerType": 0,
+            "GoodPrice": 50000,
+            "Price": 50000,
+            "VAT": 6000,
+            "VATPercent": 12,
+            "Amount": 5000,
+            "Discount": 0,
+            "Other": 0,
+            "Voucher": 0,
+            "CommissionInfo": {
+                "TIN": "190261951",
+                "PINFL": "30747919403015"
+            }
+        }
+    ],
+    "ReceivedCash": 0,
+    "ReceivedCard": 450000,
+    "TotalVAT": 54000,
+    "Time": "2025-10-21 10:18:37",
+    "ReceiptType": 0,
+    "RefundInfo": {
+        "TerminalID": "EZ000000000931",
+        "ReceiptSeq": "121",
+        "DateTime": "20250924154010",
+        "FiscalSign": "596201067621"
+    },
+    "Location": {
+        "Latitude": 41.2967745,
+        "Longitude": 69.2179078
+    },
+    "ExtraInfo": {
+        "PhoneNumber": "998901234567"
+    },
+    "MerchantInfo": {
+        "TIN": "190261951",
+        "PINFL": "30747919403015",
+        "ContractDate": "2025-09-21 07:41:09",
+        "ContractNumber": "264"
+    }
+}

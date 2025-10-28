@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "Name": "Kompyuter sichqonchasi",
+      "Barcode": "08471012005000000",
+      "SPIC": "08471012005000000",
+      "PackageCode": "1503256",
+      "GoodPrice": 150000,
+      "Price": 150000,
+      "VAT": 18000,
+      "VATPercent": 12,
+      "Amount": 1,
+      "seller_id": "s1"
+    },
+    {
+      "Name": "Klaviatura",
+      "Barcode": "2345678901234",
+      "SPIC": "08471012004000000",
+      "PackageCode": "1503267",
+      "GoodPrice": 250000,
+      "Price": 250000,
+      "VAT": 0,
+      "VATPercent": 0,
+      "Amount": 2,
+      "seller_id": "s2"
+    } 
+  ]
+}

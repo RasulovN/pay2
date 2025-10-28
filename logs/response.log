@@ -1,0 +1,10 @@
+Status: 200
+{
+    "Code": 0,
+    "Message": "accepted",
+    "TerminalID": "EZ000000000931",
+    "ReceiptSeq": 88,
+    "DateTime": "20250925103930",
+    "FiscalSign": "225383027555",
+    "QRCodeURL": "https://ofd.soliq.uz/epi?t=EZ000000000931\u0026r=88\u0026c=20250925103930\u0026s=225383027555"
+}

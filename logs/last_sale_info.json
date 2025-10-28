@@ -1,0 +1,7 @@
+{
+    "timestamp": 1761628638791,
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Unauthorized",
+    "path": "/txkm-api/emr-api/receipt"
+}

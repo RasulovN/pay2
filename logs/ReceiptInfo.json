@@ -1,0 +1,91 @@
+{
+    "ReceiptSeq": 17,
+    "IsRefund": 0,
+    "Items": [
+        {
+            "Name": "Kompyuter sichqonchasi",
+            "Barcode": "08471012005000000",
+            "Labels": [],
+            "SPIC": "08471012005000000",
+            "PackageCode": "1503256",
+            "OwnerType": 0,
+            "GoodPrice": 150000,
+            "Price": 150000,
+            "VAT": 16071,
+            "VATPercent": 12,
+            "Amount": 1000,
+            "Discount": 0,
+            "Other": 0,
+            "Voucher": 0,
+            "CommissionInfo": {
+                "TIN": "",
+                "PINFL": ""
+            }
+        },
+        {
+            "Name": "Klaviatura",
+            "Barcode": "2345678901234",
+            "Labels": [],
+            "SPIC": "08471012004000000",
+            "PackageCode": "1503267",
+            "OwnerType": 0,
+            "GoodPrice": 250000,
+            "Price": 250000,
+            "VAT": 0,
+            "VATPercent": 0,
+            "Amount": 2000,
+            "Discount": 0,
+            "Other": 0,
+            "Voucher": 0,
+            "CommissionInfo": {
+                "TIN": "311439965",
+                "PINFL": ""
+            }
+        },
+        {
+            "Name": "Maxsulotlarni yetkazib berish xizmati",
+            "Barcode": "10112006002000000",
+            "Labels": [],
+            "SPIC": "10112006002000000",
+            "PackageCode": "1209779",
+            "OwnerType": 0,
+            "GoodPrice": 15000,
+            "Price": 15000,
+            "VAT": 1607,
+            "VATPercent": 12,
+            "Amount": 1000,
+            "Discount": 0,
+            "Other": 0,
+            "Voucher": 0,
+            "TaxiInfo": {
+                "TIN": "434493549",
+                "PINFL": "05180224957283",
+                "CarNumber": "34U389LE"
+            }
+        }
+    ],
+    "ReceivedCash": 0,
+    "ReceivedCard": 415000,
+    "TotalVAT": 17678,
+    "Time": "2025-10-28 10:44:10",
+    "ReceiptType": 0,
+    "Location": {
+        "Latitude": 41.2967745,
+        "Longitude": 69.2179078
+    },
+    "ExtraInfo": {
+        "PhoneNumber": "998901234567",
+        "MarketplaceName": "AMAAR MARKET",
+        "MarketplaceAddress": "Oʻzbekiston, Qashqadaryo viloyati, Qarshi, Beshkent Yoʻli koʻchasi, 1/153",
+        "EPNumber": "EP000000000589",
+        "ReceiptNumber": "RCP-0001",
+        "RequestTime": "2025-10-28 10:44:10",
+        "CreatedTime": "2025-10-28 10:44:10"
+    },
+    "MerchantInfo": {
+        "TIN": "190261951",
+        "PINFL": "30747919403015",
+        "ContractDate": "2025-09-21 07:41:09",
+        "ContractNumber": "264"
+    }
+}

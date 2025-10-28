@@ -1,0 +1,53 @@
+{
+    "ReceiptSeq": 68,
+    "IsRefund": 0,
+    "Items": [
+        {
+            "Name": "Kompyuter sichqonchasi",
+            "Barcode": "1234567890123",
+            "SPIC": "08471012005000000",
+            "PackageCode": "1503256",
+            "GoodPrice": 150000,
+            "Price": 150000,
+            "VAT": 18000,
+            "VATPercent": 12,
+            "Amount": 1000,
+            "Discount": 0,
+            "Other": 0
+        },
+        {
+            "Name": "Klaviatura",
+            "Barcode": "2345678901234",
+            "SPIC": "08471012004000000",
+            "PackageCode": "1503267",
+            "GoodPrice": 250000,
+            "Price": 250000,
+            "VAT": 30000,
+            "VATPercent": 12,
+            "Amount": 2000,
+            "Discount": 0,
+            "Other": 0
+        }
+    ],
+    "ReceivedCash": 0,
+    "ReceivedCard": 400000,
+    "TotalVAT": 48000,
+    "Time": "2025-09-24 16:24:23",
+    "ReceiptType": 0,
+    "Location": {
+        "Latitude": 41.2967745,
+        "Longitude": 69.2179078
+    },
+    "ExtraInfo": {
+        "MarketplaceName": "My Marketplace",
+        "MarketplaceAddress": "Toshkent, Chilonzor",
+        "EPNumber": "EP123456",
+        "ReceiptNumber": "RCP-0001"
+    },
+    "MerchantInfo": {
+        "TIN": "190261951",
+        "PINFL": "30747919403015",
+        "ContractDate": "2025-09-21 07:41:09",
+        "ContractNumber": "264"
+    }
+}

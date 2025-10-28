@@ -1,0 +1,4 @@
+{
+    "Code": 30,
+    "Message": "failed to validate receipt item spic: invalid spic values of items: [0] and package code values of items: [0]"
+}

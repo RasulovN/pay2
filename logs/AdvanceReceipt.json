@@ -1,0 +1,48 @@
+{
+    "ReceiptSeq": 190,
+    "IsRefund": 0,
+    "Items": [
+        {
+            "Name": "Kompyuter sichqonchasi",
+            "Barcode": "1234567890123",
+            "Labels": [
+                "468449404843551080626"
+            ],
+            "SPIC": "08471012005000000",
+            "PackageCode": "1503256",
+            "GoodPrice": 750338,
+            "Price": 750338,
+            "VAT": 80393,
+            "VATPercent": 12,
+            "Amount": 1000,
+            "Discount": 250112,
+            "Other": 250112,
+            "Voucher": 0,
+            "CommissionInfo": {
+                "TIN": "190261951",
+                "PINFL": "30747919403015"
+            }
+        }
+    ],
+    "ReceivedCash": 0,
+    "ReceivedCard": 250114,
+    "TotalVAT": 80393,
+    "Time": "2025-10-21 10:21:33",
+    "ReceiptType": 1,
+    "AdvanceContractID": "2f138c8f0fe3499a9be756f4bdccc6d5",
+    "Location": {
+        "Latitude": 41.2967745,
+        "Longitude": 69.2179078
+    },
+    "ExtraInfo": {
+        "PhoneNumber": "998901234567",
+        "RequestTime": "2025-10-21 10:21:33",
+        "CreatedTime": "2025-10-21 10:21:33"
+    },
+    "MerchantInfo": {
+        "TIN": "190261951",
+        "PINFL": "30747919403015",
+        "ContractDate": "2025-09-21 07:41:09",
+        "ContractNumber": "264"
+    }
+}
